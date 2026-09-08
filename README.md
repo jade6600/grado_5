@@ -3,3 +3,5 @@
 ### Primera version
 
 ![1](img/screen1.jpg "1")
+
+#### el objetivo de este proyecto es que los estudiantes puedan familiarizarse con esta area de la programación y aprendan de forma interactiva donde puedan modificar los datos de la forma basica y hacer una pagina web propia
