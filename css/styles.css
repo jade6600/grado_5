@@ -1,0 +1,64 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #6d90b3;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+/* Título */
+h1 {
+    color: #dfe2e9;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+/* Párrafos */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Enlaces */
+a {
+    display: inline-block;
+    color: rgb(128, 62, 62);
+    background-color: #6d91df;
+    text-decoration: none;
+    padding: 12px 20px;
+    margin: 10px;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color: #1d4ed8;
+}
+
+/* Lista de pasatiempos */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+li {
+    background-color: rgb(128, 53, 199);
+    margin: 8px 0;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Imagen */
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin: 15px;
+    border: 4px solid #2563eb;
+}
